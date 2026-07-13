@@ -1,6 +1,6 @@
 # Privacy Policy for CutList Planner
 
-_Last updated: [FILL IN DATE BEFORE PUBLISHING]_
+_Last updated: 7/13/2026
 
 CutList Planner ("the app") is developed by Wyatt Bodle ("we", "us"). This
 policy explains what data the app handles.
@@ -47,4 +47,4 @@ updated" date above.
 
 ## Contact
 
-Questions about this policy can be sent to: [FILL IN YOUR CONTACT EMAIL]
+Questions about this policy can be sent to: wyattbodle263@gmail.com
